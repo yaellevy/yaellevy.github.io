@@ -9,6 +9,7 @@
 באתר זה ארכז את כל הקורסים שעשיתי במסגרת לימודי ובנוסף קורסי הכשרה במסגרת העבודה   
 </div>
 
+![me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXLmLdXKQNnds7TxMdKvDbWHqZDmP1XUFnCA&usqp=CAU)
 
 - > ## שנה א
 
