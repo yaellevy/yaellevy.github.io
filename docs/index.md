@@ -1,5 +1,6 @@
 <div dir="rtl" style="color:navy; font-size:24px; font-weight:bold">
-אתר הקורסים של יעל לוי   
+אתר הקורסים של יעל לוי 
+  
 </div>
 <div dir="rtl" style="color:black; font-size:20px; font-weight:bold">
 שלום שמי יעל, סטודנטית לתואר שני בהנדסת תוכנה
@@ -7,6 +8,7 @@
 <div dir="rtl" style="color:black; font-size:20px; font-weight:bold">
 באתר זה ארכז את כל הקורסים שעשיתי במסגרת לימודי ובנוסף קורסי הכשרה במסגרת העבודה   
 </div>
+
 
 - > ## שנה א
 
@@ -30,3 +32,5 @@
         - שימוש בסימולציות לנתוח מערכת 
 
 - > ## פרוייקט גמר
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
